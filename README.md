@@ -1,6 +1,7 @@
 <h1 align="center">Hi <img src="pic/giphy.webp?raw=true" width="35">, I'm Waleed Abd ELnasser Bahr </h1>
 <h3 align="center">Software Test Engineer from Egypt</h3>
-<p align="left"> <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&" alt="waleedbahr" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=waleedbahr&label=Profile%20views&color=0e75b6&style=flat" alt="waleedbahr" /> </p>
+
 <picture> <img align="right" src="pic/programmer2.gif?raw=true" width = 250px></picture>
 <!--About me-->
 
