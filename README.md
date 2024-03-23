@@ -18,7 +18,7 @@
 - 🌱 I'm currently undergoing software testing training at the Information Technology Institute.
 - 🤓 Always Learning new things
 - 👨‍💻 All of my Contacts are available at [https://linktr.ee/waleedbahr](https://linktr.ee/waleedbahr)
-- :thinking: I’m currently open for a new `job opportunity`, this is **[My Resume](https://drive.google.com/drive/folders/1_ETjgJymABlMsoiC9Wd2J-p1XwyzAQ6A?usp=drive_link)**
+- :thinking: I’m currently open for a new `job opportunity`, this is **[My Resume](https://drive.google.com/file/d/1oQXkdNJW1ykb45aKZv8sGhTkQ_L6DGoP/view?usp=sharing)**
 
 </div>
 
