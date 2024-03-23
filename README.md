@@ -11,13 +11,14 @@
 <div>
 
 - 🏫 I hold a Bachelor's degree in Computer Science [**Certificate**](pic/Graduation%20certificate.jpg)
+- 🏫 CTFL4- ISTQB® Certified Tester
 - 🌟Passionate about ensuring software quality and reliability to deliver cutting-edge solutions.
 - 🔧 skilled in designing and executing test cases manual and automation.
 - 🔧 generating comprehensive bug reports, and facilitating continuous improvement.
 - 🌱 I'm currently undergoing software testing training at the Information Technology Institute.
 - 🤓 Always Learning new things
 - 👨‍💻 All of my Contacts are available at [https://linktr.ee/waleedbahr](https://linktr.ee/waleedbahr)
-- :thinking: I’m currently open for a new `job opportunity`, this is **[My Resume](https://drive.google.com/file/d/1lyGEkjIzoWa60czJGzt6qfaWScYofbt6/view?usp=sharing)**
+- :thinking: I’m currently open for a new `job opportunity`, this is **[My Resume](https://drive.google.com/drive/folders/1_ETjgJymABlMsoiC9Wd2J-p1XwyzAQ6A?usp=drive_link)**
 
 </div>
 
