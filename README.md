@@ -11,7 +11,7 @@
 <div>
 
 - 🏫 I hold a Bachelor's degree in Computer Science [**Certificate**](pic/Graduation%20certificate.jpg)
-- 🏫 CTFL4- ISTQB® Certified Tester
+- 🏫 CTFL4- ISTQB® Certified Tester **[Certificate](https://drive.google.com/file/d/18GwjYbUpFvVkeeoKAT5l6Le4H0iSLWyv/view?usp=sharing)**
 - 🌟Passionate about ensuring software quality and reliability to deliver cutting-edge solutions.
 - 🔧 skilled in designing and executing test cases manual and automation.
 - 🔧 generating comprehensive bug reports, and facilitating continuous improvement.
