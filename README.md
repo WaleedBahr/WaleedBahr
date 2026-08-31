@@ -114,11 +114,27 @@
     &emsp;
 </p>
 ________________________________________________________________________________________________________________________________________________________
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=waleedbahr&show_icons=true&locale=en&layout=compact" alt="waleedbahr" /></p>
+<p align="center">
+  <img
+    src="https://github-readme-stats-omega-umber-75.vercel.app/api/top-langs?username=WaleedBahr&show_icons=true&locale=en&layout=compact"
+    alt="Waleed Bahr Top Languages"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats-omega-umber-75.vercel.app/api?username=WaleedBahr&show_icons=true&locale=en"
+    alt="Waleed Bahr GitHub Stats"
+    height="180"
+  />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waleedbahr&show_icons=true&locale=en" alt="waleedbahr" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waleedbahr&" alt="waleedbahr" /></p>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://streak-stats.demolab.com?user=WaleedBahr"
+      alt="GitHub Streak"
+    />
+  </a>
+</p>
 
 ## 🐍 A Snake Eating My Contributions Graph
 <p align="center">
