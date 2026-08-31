@@ -128,12 +128,7 @@ ________________________________________________________________________________
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img
-      src="https://streak-stats.demolab.com?user=WaleedBahr"
-      alt="GitHub Streak"
-    />
-  </a>
+  <img src="./profile/streak.svg" alt="Waleed Bahr GitHub Streak" />
 </p>
 
 ## 🐍 A Snake Eating My Contributions Graph
